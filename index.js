@@ -125,10 +125,8 @@ function error() {
   container.textContent = null;
 
   let img = document.createElement("img");
+  img.setAttribute("id", "error_img");
   img.src = "https://c.tenor.com/IHdlTRsmcS4AAAAM/404.gif";
-  img.style.width = "400px";
-  img.style.height = "300px";
-  img.style.marginLeft = "400px";
 
   container.append(img);
 }
