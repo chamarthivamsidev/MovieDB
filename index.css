@@ -499,7 +499,7 @@ h1 {
     margin-bottom: 40px;
   }
   h1 {
-    font-size: 20px;
+    font-size: 35px;
     text-align: center;
   }
   #temp {
@@ -516,5 +516,32 @@ h1 {
     width: 300px;
     height: 300px;
     margin-left: 0px;
+  }
+  #title {
+    font-size: 15px;
+    margin-top: 0px;
+  }
+  #description {
+    font-size: 12px;
+  }
+  #runtime {
+    font-size: 12px;
+  }
+  .common {
+    font-size: 13px;
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  #container {
+    height: 500px;
+  }
+  #image_div {
+    width: 30%;
+    height: 40%;
+  }
+  #mainDiv {
+    /* border: 1px solid white; */
+    margin-bottom: 5px;
+    border: none;
   }
 }
