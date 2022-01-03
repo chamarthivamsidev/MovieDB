@@ -1,6 +1,11 @@
 let temp = document.querySelector("#temp");
 let url;
 let container = document.querySelector("#container");
+let h1Tag = document.querySelector("h1");
+h1Tag.addEventListener("click", () => {
+  location.reload();
+});
+
 document.querySelector("form").addEventListener("submit", function (e) {
   container.textContent = null;
   e.preventDefault();
