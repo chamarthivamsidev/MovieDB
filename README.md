@@ -9,6 +9,16 @@ A web application for users to enquire about different kinds of films.
 
 # Some Snapshots 
 
-![image](https://user-images.githubusercontent.com/86275315/147063106-4fbe94dc-e855-4ac2-a16b-86f80b7bd10b.png)
+![image](https://user-images.githubusercontent.com/86275315/155843946-02357575-9f90-467f-8bf8-b70d0e31609a.png)
 
-![image](https://user-images.githubusercontent.com/86275315/147063801-a4afb42e-614b-4cb9-a88b-e1f8a43c642b.png)
+# Search Results 
+![movie](https://user-images.githubusercontent.com/86275315/155844099-5802d4ce-8651-4d06-be55-8466d4181564.png)
+
+# Mobile Responsiveness
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86275315/155844215-af06c927-25d6-48a7-89bf-8e13ccfb1e2f.png"/>
+</p>
+
+
+
+
