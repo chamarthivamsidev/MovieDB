@@ -5,7 +5,7 @@ A web application for users to enquire about different kinds of films.
 1. HTML
 2. CSS
 3. Javascript
-4. API Fetch ---> openWeather API(https://openweathermap.org/api)
+4. API Fetch ---> OMDB API(http://www.omdbapi.com/)
 
 # Some Snapshots 
 
